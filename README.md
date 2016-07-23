@@ -3,7 +3,7 @@ Tract Specific Fractional Anisotropy
 
 This is a beta version.
 
-Please refer and cite if you use this in your research:
+Please refer and cite if you use TSFA in your research:
 
 Mishra, V., Guo, X., Delgado, M. R. and Huang, H. (2015), Toward tract-specific fractional anisotropy (TSFA) at crossing-fiber regions with clinical diffusion MRI. Magn Reson Med, 74: 1768–1779. doi: 10.1002/mrm.25548
 
